@@ -1,4 +1,4 @@
-### BienveniGitHub - Welcome to my GitHub 👋
+### Bienvenidos a mi GitHub - Welcome to my GitHub 👋
 
 <!--
 **NatiHernandez/NatiHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
