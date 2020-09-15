@@ -1,14 +1,10 @@
 ### Bienvenidos a mi GitHub - Welcome to my GitHub 👋
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/natihernandez)
 
 
 
 
 <!--
-**NatiHernandez/NatiHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
